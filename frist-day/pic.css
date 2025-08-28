@@ -1,0 +1,58 @@
+.picture {
+  width: 300px;
+  height: 4
+  object-position:top;
+  border-radius: 250px;
+}
+.name,.email{
+  display: block;
+}
+.button,.thankful{
+  width: 200px;
+  display: inline-block;
+    vertical-align: middle;
+}
+.google{
+  display: block;
+}
+.YO{
+  background-color: white;
+  display: inline-block;
+  padding-right: 300px;
+  border: none;
+  border-radius: 10PX;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  
+  /*shadow all around*/
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.15);
+/
+}
+.google{
+  width: 200px;
+  margin-left: 120px;  object-position: middle;
+
+
+}
+.x1,.x2{
+  display: inline-block;
+  border-radius: 6px;
+  padding-left: 8px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 10pxpx;
+  border-color: rgb(188, 187, 187);
+  margin-top: 50px;
+margin-bottom: 20px;
+
+}
+a:hover{
+  color: gray;
+  font-weight: bold;
+  text-decoration: underline orangered
+}
+h1{
+  color: rgb(74, 12, 12);
+  font-style: italic;
+}
